@@ -17,3 +17,9 @@
 * Gradient Bar Chart Color
 * Customer Details
 * Pivot Table
+
+# Customer Details
+
+![image](https://github.com/user-attachments/assets/3b1f1c66-1c93-46a3-b2b2-c8a0faad67bf)
+
+
